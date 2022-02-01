@@ -34,10 +34,8 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 > Always remeber to use good API combo else your account could be deleted.
 
 <h4> Generate Session via Repl: </h4>    
-<p><a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@Saifzzvamp/Tesla-Music-String-Gen?v=1"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
-<h4> Generate Session via Telegram StringGen Bot: </h4>    
-<p><a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 </details>
 
@@ -50,36 +48,8 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<p><a href="https://vegetaxd.me/Yukki"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EthixOp/Vamp-Musix)
     
-</details>
-
-<details>
-<summary><b>🔗 Deploy to VPS</b></summary>
-<br>
-
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
-
-```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ pip3 install -U -r requirements.txt
-shikhar@MacBook~ $ cp sample.env .env
-```
-> Edit .env with your values and then start bot with
-```console
-shikhar@MacBook~ $ bash start
-```
-
-> Not Getting VPS Method? [Watch Tutorial](https://t.me/OfficialYukki/2275)
-</details>
-
-## Config Vars
-
-- Checkout All [Available Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/available-vars)
-- Checkout Only [Mandatory Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars)
-- Checkout Some [Configs](https://notreallyshikhar.gitbook.io/yukkimusicbot/setup-config/config)
 
 ## Contact & Support
 
@@ -90,7 +60,7 @@ shikhar@MacBook~ $ bash start
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/EthixOp/Vamp-Musix/blob/main/LICENSE) See `LICENSE.md` for more information.
 
 ## Acknowledgements
 
