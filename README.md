@@ -22,7 +22,7 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
 - [MongoDB URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/string-session)
+- [Pyrogram String Session](https://replit.com/@Saifzzvamp/Tesla-Music-String-Gen?v=1)
     
 </details>
 
