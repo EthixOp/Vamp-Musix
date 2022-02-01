@@ -1,21 +1,18 @@
-<p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://telegra.ph/file/55464c49614366f8fc236.jpg" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/YukkiRobot"> Ready-To-Use Bot </a> •
-    <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/OfficialYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="http://t.me/Vampmusic_Bot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/Tg_KingEthixOP"> Support Channel </a> •
+    <a href="https://t.me/Vamp_The_Queen"> Support Chat </a> 
 </p>
     
-# Yukki Music Bot
+# Tesla Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
-Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/requirements) for Detailed Description and Setup Guide on deploying Bot.
-
 > Click on buttons to expand!
 <details>
 <summary><b>🔗 Requirements</b></summary>
@@ -86,9 +83,9 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/OfficialYukki)
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/Tg_KingEthixOP)
+- [Telegram Support Group](https://t.me/Vamp_The_Queen)
+- [Contact Owner](https://t.me/EthixOpYT)
 
 
 ## License
@@ -97,10 +94,8 @@ Distributed under the [GNU General Public License v3.0 License.](https://github.
 
 ## Acknowledgements
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power Tesla Music Bot:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
+- [The King](https://t.me/EthixOpYT)
