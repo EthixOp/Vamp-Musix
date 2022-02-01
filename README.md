@@ -4,7 +4,7 @@
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="http://t.me/Vampmusic_Bot"> Ready-To-Use Bot </a> •
+    <a href="http://t.me/TeslaMusix_Bot"> Ready-To-Use Bot </a> •
     <a href="https://t.me/Tg_KingEthixOP"> Support Channel </a> •
     <a href="https://t.me/Vamp_The_Queen"> Support Chat </a> 
 </p>
