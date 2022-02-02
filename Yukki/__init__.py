@@ -223,7 +223,7 @@ async def initiate_bot():
         SUDOERS = (SUDOERS + sudoers + OWNER_ID) if sudoers else SUDOERS
         console.print("└ [green]Loaded Sudo Users Successfully!\n")
         try:
-            repo = Repo()
+            repo = Repo(https://github.com/EthixOp/Tesla-Musix)
         except GitCommandError:
             console.print("┌ [red] Checking Git Updates!")
             console.print("└ [red]Git Command Error\n")
