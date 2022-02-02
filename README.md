@@ -48,8 +48,7 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
-[![Deploy] (https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EthixOp/Vamp-Musix)
-    
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EthixOp/Vamp-Musix)    
 
 ## Contact & Support
 
