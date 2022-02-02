@@ -4,9 +4,9 @@ from datetime import datetime, timedelta
 
 from pyrogram.errors.exceptions import FloodWait
 
-from Tesla import MUSIC_BOT_NAME, app, db_mem
-from tesla.Utilities.formatters import bytes
-from Tesla.Utilities.ping import get_readable_time
+from Yukki import MUSIC_BOT_NAME, app, db_mem
+from Yukki.Utilities.formatters import bytes
+from Yukki.Utilities.ping import get_readable_time
 
 
 async def telegram_download(message, mystic):
