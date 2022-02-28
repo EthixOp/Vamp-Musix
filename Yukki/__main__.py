@@ -214,7 +214,7 @@ async def initiate_bot():
             await ASS_CLI_1.join_chat("Teslasupportz")
         except:
             pass
-    console.print(f"└[red] Yukki Music Bot Boot Completed.")
+    console.print(f"└[red] Oliva Musix Bot Boot Completed.")
     if STRING1 != "None":
         await pytgcalls1.start()
     if STRING2 != "None":
@@ -385,8 +385,8 @@ All commands can be used with: /
     )
 
 
-@app.on_callback_query(filters.regex("shikhar"))
-async def shikhar(_, CallbackQuery):
+@app.on_callback_query(filters.regex("Ethix"))
+async def Ethix(_, CallbackQuery):
     text, keyboard = await help_parser(CallbackQuery.from_user.mention)
     await CallbackQuery.message.edit(text, reply_markup=keyboard)
 
