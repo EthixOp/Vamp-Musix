@@ -1,12 +1,12 @@
-<p align="center"><img src="https://telegra.ph/file/55464c49614366f8fc236.jpg" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://telegra.ph/file/a5c21643104714f5195ca.jpg" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
     <a href="http://t.me/TeslaMusix_Bot"> Ready-To-Use Bot </a> •
-    <a href="https://t.me/Tg_KingEthixOP"> Support Channel </a> •
-    <a href="https://t.me/Vamp_The_Queen"> Support Chat </a> 
+    <a href="https://t.me/TESLA_EMPIRE"> Support Channel </a> •
+    <a href="https://t.me/TESLA_EMPIRE_SUPPORT"> Support Chat </a> 
 </p>
     
 # Tesla Music Bot
@@ -51,8 +51,8 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/Tg_KingEthixOP)
-- [Telegram Support Group](https://t.me/Vamp_The_Queen)
+- [Telegram Channel](https://t.me/TESLA_EMPIRE)
+- [Telegram Support Group](https://t.me/TESLA_EMPIRE_SUPPORT)
 - [Contact Owner](https://t.me/EthixOpYT)
 
 
