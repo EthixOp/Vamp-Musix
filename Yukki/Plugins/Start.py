@@ -1,3 +1,4 @@
+
 import asyncio
 import random
 import time
@@ -29,16 +30,10 @@ welcome_group = 2
 
 __MODULE__ = "Essentials"
 __HELP__ = """
-
-
 /start 
 - Start the Bot.
-
-
 /help 
 - Get Commands Helper Menu.
-
-
 /settings 
 - Get Settings button.
 """
